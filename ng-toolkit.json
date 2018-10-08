@@ -1,0 +1,16 @@
+{
+  "serverless": {
+    "--": [
+      "—-provider",
+      "aws"
+    ],
+    "project": "test-ang-route",
+    "provider": "aws",
+    "skipInstall": false,
+    "directory": ".",
+    "serverless": {
+      "aws": {},
+      "gcloud": {}
+    }
+  }
+}
